@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gianfranco Leotta
-- 👀 I’m interested in every kind of technology and news in tech and cars
-- 🌱 I’m currently learning Laravel, React and Databse Relations
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in developing my knowledge in machine learning
+- 🌱 I’m currently learning Python, Numpy, Pandas, Scikit-Learn and App Deploy through Streamlit
 - 📫 How to reach me leottagianfranco@gmail.com
 
 <!---
